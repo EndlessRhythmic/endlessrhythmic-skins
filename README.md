@@ -2,7 +2,7 @@
 osu! Skins that I use.
 
 ## [Irata Skin Mix](https://www.mediafire.com/file/i8sx6pkid678xw8/Irata+Skin+Mix.osk/file)
-![Irata Skin Mix](![screenshot227](https://github.com/user-attachments/assets/fd115fb4-df47-453b-ab18-850c71b3a974)
+(![screenshot227](https://github.com/user-attachments/assets/fd115fb4-df47-453b-ab18-850c71b3a974)
 
 ## [#Azerite Endless](https://www.mediafire.com/file/q8ge97mt29a4t5o/%23Azerite_Endless.osk/file)
 ![#Azerite Endless](https://github.com/EndlessRhythmic/endlessrhythmic-skins/assets/65572636/566b673e-f17c-4296-a9b2-4793094d1d64)
