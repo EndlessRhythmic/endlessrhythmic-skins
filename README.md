@@ -19,8 +19,6 @@ osu! Skins that I use.
 ![Karthy v6 0](https://github.com/EndlessRhythmic/endlessrhythmic-skins/assets/65572636/79349879-ee25-40fe-8e49-660f9a254a27)
 ## [Chispa DT Edit](https://www.mediafire.com/file/6sq3vw1luh49lqk/Chispa+DT+Edit.osk/file)
 ![Chispa DT Edit](https://github.com/EndlessRhythmic/endlessrhythmic-skins/assets/65572636/7727363b-767f-41b4-9b62-6e65b83dd028)
-## [Rafis but Zylice](https://www.mediafire.com/file/dstcbywzaa0zocd/Rafis_but_Zylice.osk/file)
-![screenshot160](https://github.com/EndlessRhythmic/endlessrhythmic-skins/assets/65572636/27f708c4-6bd0-4a25-8b53-e0827039c3d6)
 ## [boop](https://www.mediafire.com/file/whlwi8dvwfxeu5n/boop.osk/file)
 ![screenshot163](https://github.com/EndlessRhythmic/endlessrhythmic-skins/assets/65572636/9ce262c5-eba9-4867-9dd5-cd0de3da30f3)
 ## [Kogecha](https://www.mediafire.com/file/annu07rgb8j6fo4/Kogecha.osk/file)
